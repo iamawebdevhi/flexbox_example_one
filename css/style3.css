@@ -13,6 +13,7 @@ header, footer {
 }
 
 .center{
+    background-color:white;
     flex:1;
     display:flex;
     flex-direction:row;
@@ -21,6 +22,7 @@ header, footer {
 }
 
 nav, aside{
+    background-color:blanchedalmond;
     flex:1;
 }
 
